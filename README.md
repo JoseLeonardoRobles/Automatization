@@ -22,6 +22,6 @@ Piggyback.sh is a software developed to retrieve data from remote server:
 
 To display help; type in terminal: ./piggyback.sh -h 
 
-Software for Unix-like systems developed by:
+Software for Linux and Unix-like systems developed by:
 
 Jose Robles, josrob01@ucm.es
