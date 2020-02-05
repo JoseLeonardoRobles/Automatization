@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+53 15 * * * cd /Users/joserobles/repos/dm_nsb_piggyback_shell/ && ./piggyback.sh -p
+54 15 * * * cd /Users/joserobles/repos/dm_nsb_piggyback_shell/ && ./piggyback.sh -w
+55 15 * * * cd /Users/joserobles/repos/dm_nsb_piggyback_shell/ && ./piggyback.sh -l 
